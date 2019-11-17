@@ -400,12 +400,5 @@ int rateRemaining = response.getRateRemaining();
     </snapshots>
 </repository>
 ```
-## Continuous Integration ##
-
-https://travis-ci.org/mlieshoff/jcrapi
-
-## Repository ##
-
-https://bintray.com/mlieshoff/maven/jcrapi
 
 
